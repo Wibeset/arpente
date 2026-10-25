@@ -1,0 +1,25 @@
+# Arpente
+
+> Arpente is a free journal of walks and hikes for iPhone, in French and English. It records each exploration with GPS, draws it on a map, and keeps its distance, duration, elevation gain, notes and photos. It isn't a performance app: no rankings, no feed, no followers. No account, no ads: your routes are stored on your iPhone and in your private iCloud. Made by Wibeset in Canada.
+
+Key facts:
+
+- Platform: iPhone only (not available on Android or the web). Coming soon to the App Store.
+- Price: free, with no ads, no subscription and no account.
+- Idea: a journal of explorations rather than a fitness tracker. A 2 km walk around the block and an 18 km hike in the mountains are both worth keeping.
+- Privacy: routes, locations, notes and photos are stored on the device and synced with the user's private iCloud; the developer never receives them. Location is used only while recording.
+- Maps: Apple Maps.
+- Statistics: distance, duration and elevation gain, by month and by year, plus a map of every place explored.
+- Export: each route as a GPX file.
+
+## Pages
+
+- [Home](https://arpente.app/): features and frequently asked questions
+- [Support](https://arpente.app/support/): contact, location access, GPS accuracy, battery, GPX export
+- [Privacy policy](https://arpente.app/privacy/): what information the app handles
+
+## Français
+
+- [Accueil](https://arpente.app/fr/)
+- [Assistance](https://arpente.app/fr/assistance/)
+- [Politique de confidentialité](https://arpente.app/fr/confidentialite/)
