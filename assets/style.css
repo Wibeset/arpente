@@ -283,68 +283,57 @@ h1, h2, h3, p { margin: 0; }
 .answer a { color: var(--green); text-decoration: none; }
 .answer a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
-/* Ads: the makers' two other apps, Reliure and Porcom, each in its own colors. */
+/* Ads: Reliure, Porcom, Dernier Verre and Coutume in one quiet row of small cards, each in its own colors. */
 
 .ads { max-width: 1000px; margin: 150px auto 0; padding: 0 24px; }
-.ads-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.ads-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
 
 .ad {
   position: relative;
-  display: grid;
-  grid-template-columns: 1.15fr 0.85fr;
-  min-height: 440px;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
-  border-radius: 28px;
+  border-radius: 18px;
   text-decoration: none;
-  box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.06);
   transition: transform 0.25s ease;
 }
 
-.ad:hover { transform: translateY(-3px); }
+.ad:hover { transform: translateY(-2px); }
 
-.ad-text { position: relative; z-index: 1; padding: 36px; }
-.ad-eyebrow { font-size: 13px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.6; }
-.ad h3 { display: flex; align-items: center; gap: 12px; margin-top: 12px; font-size: 32px; font-weight: 500; letter-spacing: -0.02em; }
-.ad h3 img { width: 40px; height: 40px; border-radius: 9px; }
-.ad-body { max-width: 24em; margin-top: 10px; font-size: 15.5px; line-height: 1.55; opacity: 0.75; }
-.ad-tagline { margin-top: 8px; font-family: var(--serif); font-size: 24px; line-height: 1.15; }
+.ad-text { display: flex; flex: 1; flex-direction: column; padding: 20px 20px 18px; }
+.ad-eyebrow { font-size: 11px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.55; }
+.ad h3 { display: flex; align-items: center; gap: 9px; margin-top: 10px; font-size: 19px; font-weight: 500; letter-spacing: -0.01em; white-space: nowrap; }
+.ad h3 picture { display: flex; }
+.ad h3 img { width: 28px; height: 28px; border-radius: 7px; }
+.ad-body { margin-top: 6px; font-size: 14px; line-height: 1.5; opacity: 0.75; }
+.ad-tagline { margin: 8px 0 14px; font-family: "Instrument Serif", Georgia, serif; font-size: 18px; line-height: 1.2; }
 
 .ad-cta {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  margin-top: 22px;
-  padding: 10px 16px;
-  border-radius: 999px;
-  font-size: 15px;
+  gap: 6px;
+  margin-top: auto;
+  font-size: 13px;
   font-weight: 500;
-  white-space: nowrap;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
 }
 
-.ad-cta svg { width: 15px; height: 15px; margin-top: -2px; fill: currentColor; }
+.ad:hover .ad-cta { opacity: 1; }
+.ad-cta svg { width: 12px; height: 12px; margin-top: -2px; fill: currentColor; }
 
-.ad-reliure { background: #17191d; color: #f2f1ee; }
-.ad-reliure .ad-cta { background: #f2f1ee; color: #17212b; }
-
-.ad-porcom { background: #1c1312; color: #f4efe8; }
-.ad-porcom .ad-tagline { font-family: var(--sans); font-size: 22px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.2; }
-.ad-porcom .ad-cta { background: #ff5a52; color: #fff; }
-
-.ad-phone {
-  align-self: end;
-  margin: 36px 26px -40% 0;
-  padding: 2.5%;
-  border-radius: 13% / 6%;
-  background: #0b0c0e;
-  box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.1);
-  transition: translate 0.35s ease;
-}
-
-.ad-phone img { display: block; width: 100%; height: auto; border-radius: 11% / 5.1%; }
-.ad:hover .ad-phone { translate: 0 -8px; }
+.ad-reliure { background: #17191d; color: #f2f1ee; box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.06); }
+.ad-porcom { background: #1c1312; color: #f4efe8; box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.06); }
+.ad-porcom .ad-tagline { font-family: var(--sans); font-size: 15px; font-weight: 600; letter-spacing: -0.01em; line-height: 1.3; }
+.ad-porcom .ad-cta { color: #ff7a72; opacity: 1; }
+.ad-dernierverre { background: #ff6b35; color: #0e0e0c; }
+.ad-dernierverre .ad-tagline { font-family: var(--sans); font-size: 14px; font-weight: 800; letter-spacing: -0.01em; line-height: 1.3; text-transform: uppercase; }
+.ad-dernierverre h3 img { box-shadow: 0 0 0 1.5px rgb(14 14 12 / 0.35); }
+.ad-coutume { background: #17212b; color: #f5f3ee; box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.06); }
+.ad-coutume h3 img { box-shadow: 0 0 0 1px rgb(245 243 238 / 0.2); }
 
 @media (prefers-reduced-motion: reduce) {
-  .ad, .ad-phone { transition: none; }
+  .ad, .ad-cta { transition: none; }
 }
 
 /* Footer: on the page's own background, with no rule above it; the credit, the links, and the name across the bottom. */
@@ -438,7 +427,7 @@ footer nav a:hover, footer nav a[aria-current] { color: var(--text); }
 
 @media (max-width: 900px) {
   .features { grid-template-columns: repeat(3, 1fr); }
-  .ads-grid { grid-template-columns: 1fr; }
+  .ads-grid { grid-template-columns: 1fr 1fr; }
   .doodle.side { display: none; }
 }
 
@@ -465,9 +454,8 @@ footer nav a:hover, footer nav a[aria-current] { color: var(--text); }
   .answer + .answer { margin-top: 52px; }
   .answer > p:first-child { color: var(--green); font-size: 14px; }
   .ads { margin-top: 110px; padding: 0 12px; }
-  .ad { min-height: 0; border-radius: 24px; grid-template-columns: 1fr; }
-  .ad-text { padding: 28px 24px 0; }
-  .ad-phone { width: 62%; justify-self: center; margin: 28px 0 -55%; }
+  .ad-text { padding: 18px 16px 16px; }
+  .ad h3 { font-size: 17px; white-space: normal; }
   .doodle { display: none; }
   footer { margin-top: 110px; padding-top: 56px; }
   .wordmark { margin-top: 36px; }
