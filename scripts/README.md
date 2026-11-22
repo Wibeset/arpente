@@ -1,28 +1,47 @@
 # Travailler sur le site d’Arpente
 
-Du HTML statique, une feuille de style et un petit script, publiés par GitHub Pages. La structure et le design
-reprennent ceux de Porcom (`../porcom`) et de Reliure (`../reliure`), mais en mode clair seulement, aux couleurs
-de l’app : vert forêt `#2d5a3d`, crème `#f4efe4` et noir charbon `#1e211f`.
+Du HTML statique, une feuille de style et un petit script, publiés par GitHub Pages. Le design est celui de
+Reliure (`../reliure`) : fond encre `#0a0a0b`, titres en Headland One (`assets/fonts/`), texte en Helvetica, et
+l’accueil en deux colonnes, le texte à gauche et un grand iPhone à droite. Le vert forêt d’Arpente, éclairci
+(`#8cc4a0`), sert d’accent : trait de surligneur du titre, halo derrière le téléphone, anneaux de focus.
 
 ## Pages
 
-| English | Français |
-| --- | --- |
-| `/` | `/fr/` |
-| `/support/` | `/fr/assistance/` |
-| `/privacy/` | `/fr/confidentialite/` |
+Trois langues : anglais (par défaut, `x-default`), français (`/fr/`) et espagnol (`/es/`). L’app, elle, n’existe
+qu’en anglais et en français : les pages espagnoles le disent, et le JSON-LD de l’app sur `/es/` déclare `["en", "fr"]`.
 
-L’anglais est la langue par défaut (`x-default`). Chaque page déclare son équivalent (`hreflang`) et
-le lien de langue mène à la même page dans l’autre langue. Les liens sont relatifs
-(`../assets/…`), donc les pages s’ouvrent aussi bien depuis le disque que servies d’un sous-dossier ;
-seule `404.html` garde des liens depuis la racine, puisque GitHub Pages la sert à n’importe quelle adresse. Le français est tutoyé, comme
-l’app, avec des espaces insécables avant `? ! : ;` et dans les « guillemets ». Arpente est « une app » : on l’accorde au féminin.
+| English | Français | Español |
+| --- | --- | --- |
+| `/` | `/fr/` | `/es/` |
+| `/support/` | `/fr/assistance/` | `/es/soporte/` |
+| `/privacy/` | `/fr/confidentialite/` | `/es/privacidad/` |
+| `/strava-alternative/` | `/fr/alternative-strava/` | `/es/alternativa-strava/` |
+| `/alltrails-alternative/` | `/fr/alternative-alltrails/` | `/es/alternativa-alltrails/` |
+| `/komoot-alternative/` | `/fr/alternative-komoot/` | `/es/alternativa-komoot/` |
+| `/walking-journal/` | `/fr/journal-de-marche/` | `/es/diario-de-caminatas/` |
+| `/private-hiking-tracker/` | `/fr/suivi-randonnee-sans-compte/` | `/es/seguimiento-senderismo-sin-cuenta/` |
+| `/gpx-export/` | `/fr/export-gpx/` | `/es/exportar-gpx/` |
+| `/free-walking-app/` | `/fr/application-marche-gratuite/` | `/es/app-caminar-gratis/` |
+| `/quebec-hikes/` (+ `mont-albert/`, `acropole-des-draveurs/`, `sentier-de-la-statue/`) | `/fr/randonnees-quebec/` (mêmes fiches) | `/es/rutas-quebec/` (mêmes fiches) |
+| `/montreal-walks/` (+ `lachine-canal/`, `mount-royal/`) | `/fr/marches-montreal/` (+ `canal-de-lachine/`, `mont-royal/`) | `/es/paseos-montreal/` (+ `canal-de-lachine/`, `mont-royal/`) |
+
+Chaque page déclare ses trois équivalents (`hreflang`) et le pied de page mène aux deux autres langues. Les liens
+sont relatifs ; seule `404.html` garde des liens depuis la racine. Le français est tutoyé (espaces insécables avant
+`? ! : ;`), l’espagnol aussi (« tú »). Arpente est « une app » : on l’accorde au féminin.
+
+Les guides (SEO) suivent le gabarit `.legal` de Reliure. Les fiches de randonnée ont une photo, les faits clés
+(chiffres des parcs : Sépaq, Parcs Canada, Ville de Montréal), une carte et un profil d’altitude
+(`assets/hikes/<id>/map.svg` et `profile.svg`) et une galerie. Le tracé des cartes est indicatif : calculé avec
+BRouter sur les données OpenStreetMap (© contributeurs OpenStreetMap, ODbL), altitudes SRTM. Les photos viennent de
+Wikimedia Commons, sous licence libre, avec le crédit sous chacune : garder ces crédits. Les comparatifs datent de
+novembre 2026 : à revoir.
 
 ## Au quotidien
 
 - **Styles** : modifier `assets/style.css`, puis `scripts/build-css.sh` pour produire `style.min.css`,
   que les pages chargent.
-- **Script** : `assets/main.js` fait apparaître les sections au défilement ; sans JavaScript, tout reste visible.
+- **Script** : `assets/main.js` (le même que Reliure) affiche dans le téléphone l’écran de la section en cours de lecture
+  (`data-screen`) et ajoute les points de navigation ; sans JavaScript, le premier écran reste affiché.
 - **Images** : `python3 scripts/make-images.py` dessine l’icône et les favicons, les images Open Graph, les cinq
   écrans de la rangée et les deux cartes de la section « 2 km ou 18 km » (`icons`, `og`, `screens` ou `walks` pour
   n’en refaire qu’une partie). Il lui faut Google Chrome et `cwebp`.

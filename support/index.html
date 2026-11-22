@@ -8,17 +8,16 @@
   <link rel="canonical" href="https://arpente.app/support/">
   <link rel="alternate" hreflang="en" href="https://arpente.app/support/">
   <link rel="alternate" hreflang="fr" href="https://arpente.app/fr/assistance/">
+  <link rel="alternate" hreflang="es" href="https://arpente.app/es/soporte/">
   <link rel="alternate" hreflang="x-default" href="https://arpente.app/support/">
-  <meta name="color-scheme" content="light">
-  <meta name="theme-color" content="#f4efe4">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0a0a0b">
   <link rel="icon" href="../favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon-16x16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
   <link rel="manifest" href="../site.webmanifest">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;800&family=Instrument+Serif:ital@0;1&display=swap">
+  <link rel="preload" href="../assets/fonts/headland-one-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="../assets/style.min.css">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Arpente">
@@ -36,15 +35,14 @@
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
-  <header class="nav">
-    <a class="brand" href="../"><img src="../assets/icon.png" width="30" height="30" alt="">Arpente <span>for iPhone</span></a>
-    <a href="../support/">Support</a>
-    <a href="../fr/assistance/" hreflang="fr" lang="fr">Français</a>
-    <span class="store">Coming soon to the App Store</span>
-  </header>
-
   <main id="main">
     <article class="legal">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol>
+          <li><a href="../"><img src="../assets/icon.png" width="20" height="20" alt="">Arpente</a></li>
+          <li aria-current="page">Support</li>
+        </ol>
+      </nav>
       <h1>Support</h1>
 
       <p class="lede">A question, a route that looks off or an idea for Arpente? Write to us, we read every message.</p>
@@ -93,14 +91,18 @@
   </main>
 
   <footer>
-    <svg class="heart" viewBox="0 0 24 22" aria-hidden="true"><path d="M12 21.6 10.3 20C4.2 14.5 0 10.8 0 6.3 0 2.7 2.8 0 6.3 0c2 0 4 .9 5.7 2.5C13.7.9 15.7 0 17.7 0 21.2 0 24 2.7 24 6.3c0 4.5-4.2 8.2-10.3 13.7Z"/></svg>
-    <p>Made by <a href="https://wibeset.ca">Wibeset</a> · Developed in Canada in 2026</p>
     <nav aria-label="Footer">
       <a href="../support/" aria-current="page">Support</a>
       <a href="../privacy/">Privacy</a>
+      <a href="../strava-alternative/">Strava alternative</a>
+      <a href="../alltrails-alternative/">AllTrails alternative</a>
+      <a href="../walking-journal/">Walking journal</a>
+      <a href="../quebec-hikes/">Hikes in Québec</a>
+      <a href="../montreal-walks/">Walks in Montréal</a>
       <a href="../fr/assistance/" hreflang="fr" lang="fr">Français</a>
+      <a href="../es/soporte/" hreflang="es" lang="es">Español</a>
     </nav>
-    <div class="wordmark-clip"><p class="wordmark" aria-hidden="true">Arpente</p></div>
+    <p>Made with <svg class="heart" viewBox="0 0 24 22" role="img" aria-label="love"><path d="M12 21.6 10.3 20C4.2 14.5 0 10.8 0 6.3 0 2.7 2.8 0 6.3 0c2 0 4 .9 5.7 2.5C13.7.9 15.7 0 17.7 0 21.2 0 24 2.7 24 6.3c0 4.5-4.2 8.2-10.3 13.7Z"/></svg> by <a href="https://wibeset.ca">Wibeset</a>. Developed in Canada.</p>
   </footer>
   <script src="../assets/main.js" defer></script>
 </body>

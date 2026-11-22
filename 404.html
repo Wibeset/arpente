@@ -5,20 +5,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Page not found — Arpente</title>
   <meta name="robots" content="noindex">
-  <meta name="color-scheme" content="light">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0a0a0b">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap">
+  <link rel="preload" href="/assets/fonts/headland-one-latin.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/style.min.css">
 </head>
 <body>
   <main id="main" class="legal not-found">
-    <a class="brand" href="/"><img src="/assets/icon.png" width="30" height="30" alt="">Arpente</a>
-    <h1>Off the trail.<br><span lang="fr">Hors sentier.</span></h1>
-    <p class="lede">This page doesn’t exist. <span lang="fr">Cette page n’existe pas.</span></p>
-    <p><a href="/">Back to Arpente</a> · <a href="/fr/" lang="fr">Retour à Arpente</a></p>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="/"><img src="/assets/icon.png" width="20" height="20" alt="">Arpente</a></li>
+        <li aria-current="page">404</li>
+      </ol>
+    </nav>
+    <h1>Off the trail.<br><span lang="fr">Hors sentier.</span><br><span lang="es">Fuera del sendero.</span></h1>
+    <p class="lede">This page doesn’t exist. <span lang="fr">Cette page n’existe pas.</span> <span lang="es">Esta página no existe.</span></p>
+    <p><a href="/">Back to Arpente</a> · <a href="/fr/" lang="fr">Retour à Arpente</a> · <a href="/es/" lang="es">Volver a Arpente</a></p>
   </main>
 </body>
 </html>
