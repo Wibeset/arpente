@@ -494,6 +494,7 @@ def make_icons():
 OG = {
     "en": ("Every step tells a story.", "A journal of your walks and hikes, for iPhone. Free, no account, no ads."),
     "fr": ("Chaque pas raconte un parcours.", "Le journal de tes marches et randonnées, pour iPhone. Gratuit, sans compte, sans pub."),
+    "es": ("Cada paso cuenta una historia.", "El diario de tus caminatas y excursiones, para iPhone. Gratis, sin cuenta, sin anuncios."),
 }
 
 

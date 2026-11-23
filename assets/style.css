@@ -28,7 +28,7 @@
   --text: #e1e1e1;
   --white: #fff;
   --muted: #9a9aa6;
-  --faint: #6e6e78;
+  --faint: #80808a; /* 5:1 on --bg (WCAG AA for small text) */
   --hairline: rgba(255, 255, 255, 0.16);
   /* Arpente's forest green, lifted to read on ink: focus rings and the title's marker. */
   --accent: #8cc4a0;
@@ -412,7 +412,8 @@ footer nav a:hover, footer nav a[aria-current] { color: var(--white); }
 .legal .breadcrumb ol { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 10px; margin: 0; padding: 0; list-style: none; color: var(--muted); }
 .breadcrumb li { display: flex; align-items: center; gap: 10px; }
 .breadcrumb li + li::before { content: "›"; color: var(--faint); }
-.breadcrumb a { display: inline-flex; align-items: center; gap: 10px; color: var(--white); text-decoration: none; }
+.breadcrumb a { display: inline-flex; align-items: center; gap: 10px; color: var(--white); text-decoration: none;
+  padding-block: 9px; margin-block: -9px; /* 44px tap target, same layout */ }
 .breadcrumb a:hover { text-decoration: underline; }
 .breadcrumb img { width: 20px; height: 20px; }
 /* Stronger than the article's own list rules (.legal ol, .legal li + li). */

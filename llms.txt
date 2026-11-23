@@ -5,6 +5,7 @@
 Key facts:
 
 - Platform: iPhone only (not available on Android or the web). Coming soon to the App Store.
+- Languages: the app is in English and French. This website is in English, French and Spanish.
 - Price: free, with no ads, no subscription and no account.
 - Idea: a journal of explorations rather than a fitness tracker. A 2 km walk around the block and an 18 km hike in the mountains are both worth keeping.
 - Privacy: routes, locations, notes and photos are stored on the device and synced with the user's private iCloud; the developer never receives them. Location is used only while recording.
@@ -14,60 +15,60 @@ Key facts:
 
 ## Pages
 
-- [Home](https://arpente.app/)
-- [Support](https://arpente.app/support/)
-- [Privacy](https://arpente.app/privacy/)
-- [Strava alternative](https://arpente.app/strava-alternative/): Looking for a Strava alternative for walks and hikes? Arpente is a free iPhone journal with GPS maps and no account, no feed, no followers and no leaderboards.
-- [AllTrails alternative](https://arpente.app/alltrails-alternative/): Looking for a free AllTrails alternative to record your hikes? Arpente is an iPhone hiking journal with GPS maps, elevation and GPX export. No account, no subscription.
-- [Komoot alternative](https://arpente.app/komoot-alternative/): Looking for a simple Komoot alternative? Arpente is a free iPhone journal of your walks and hikes: GPS maps, statistics and GPX export, with no account and no paid regions.
+- [Home](https://arpente.app/): Arpente is a free journal of your walks and hikes for iPhone: GPS maps, clear statistics and the story of your explorations. No account, no ads.
+- [Support](https://arpente.app/support/): Help and contact for Arpente: location access, GPS accuracy, moving to a new iPhone and exporting your routes as GPX.
+- [Privacy](https://arpente.app/privacy/): How Arpente handles your information: no account, no ads, your routes stay on your iPhone and in your iCloud.
+- [Strava alternative](https://arpente.app/strava-alternative/): Looking for a Strava alternative for walks and hikes? Arpente is a free iPhone journal with GPS maps: no account, no feed, no followers, no leaderboards.
+- [AllTrails alternative](https://arpente.app/alltrails-alternative/): Looking for a free AllTrails alternative to record your hikes? Arpente is an iPhone hiking journal with GPS maps, elevation and GPX export. No account needed.
+- [Komoot alternative](https://arpente.app/komoot-alternative/): Looking for a simple Komoot alternative? Arpente is a free iPhone journal of your walks and hikes: GPS maps, stats and GPX export, no account, no paid regions.
 - [Walking journal](https://arpente.app/walking-journal/): Arpente is a walking and hiking journal app for iPhone: each walk with its GPS map, distance, time, elevation, a note and photos. Free, no account, no ads.
-- [Private hiking tracker](https://arpente.app/private-hiking-tracker/): A private hiking and walking tracker for iPhone: no account, no public profile, no feed. Arpente keeps your GPS routes on your iPhone and in your private iCloud.
+- [Private hiking tracker](https://arpente.app/private-hiking-tracker/): A private hiking and walking tracker for iPhone: no account, no public profile, no feed. Arpente keeps your GPS routes on your iPhone and your private iCloud.
 - [GPX export](https://arpente.app/gpx-export/): How to record a walk or hike on iPhone and export it as a GPX file with Arpente, then open it in another mapping or hiking app. Free, no account.
-- [Free walking app](https://arpente.app/free-walking-app/): Arpente is a free walking app for iPhone: record your walks with GPS, see your distance, time and elevation, and keep a journal. No ads, no subscription, no account.
-- [Hikes in Québec](https://arpente.app/quebec-hikes/): Mont Albert in Gaspésie, the Acropole des Draveurs in Charlevoix and the Sentier de la Statue on the Saguenay Fjord: distance, elevation and tips for three great Québec hikes.
+- [Free walking app](https://arpente.app/free-walking-app/): Arpente is a free walking app for iPhone: record walks with GPS, see your distance, time and elevation, and keep a journal. No ads, no subscription, no account.
+- [Hikes in Québec](https://arpente.app/quebec-hikes/): Mont Albert in Gaspésie, the Acropole des Draveurs in Charlevoix and the Sentier de la Statue on the Saguenay Fjord: distance, elevation and tips for each.
 - [Walks in Montréal](https://arpente.app/montreal-walks/): The Lachine Canal path, Mount Royal up to the Kondiaronk lookout, and a loop through your own neighbourhood: three walks in Montréal to record and keep.
-- [Mont Albert](https://arpente.app/quebec-hikes/mont-albert/): Hiking Mont Albert in Parc national de la Gaspésie: 11.6 km return by the north side or a 17.3 km loop, about 860 m of climbing. Map, elevation profile, photos and tips.
-- [Acropole des Draveurs](https://arpente.app/quebec-hikes/acropole-des-draveurs/): Hiking the Acropole des Draveurs in Parc national des Hautes-Gorges-de-la-Rivière-Malbaie: about 10.4 km return and 800 m of climbing. Map, elevation profile, photos and tips.
-- [Sentier de la Statue](https://arpente.app/quebec-hikes/sentier-de-la-statue/): Hiking the Sentier de la Statue from Baie-Éternité to Notre-Dame-du-Saguenay, above the Saguenay Fjord: about 7.6 km return. Map, elevation profile, photos and tips.
-- [Lachine Canal](https://arpente.app/montreal-walks/lachine-canal/): Walking the Lachine Canal path in Montréal, from the Old Port to Lachine: 14.5 km, flat, past locks, old factories and the Atwater Market. Map, photos and tips.
-- [Mount Royal](https://arpente.app/montreal-walks/mount-royal/): Walking up Mount Royal in Montréal from the top of rue Peel to the Kondiaronk lookout and the cross: about 2 km one way and 150 m of climbing. Map, profile, photos and tips.
+- [Mont Albert](https://arpente.app/quebec-hikes/mont-albert/): Hiking Mont Albert in Parc national de la Gaspésie: 11.6 km return by the north side or a 17.3 km loop, about 860 m of climbing. Map, profile, photos, tips.
+- [Acropole des Draveurs](https://arpente.app/quebec-hikes/acropole-des-draveurs/): Hiking the Acropole des Draveurs in Parc national des Hautes-Gorges-de-la-Rivière-Malbaie: about 10.4 km return, 800 m of climbing. Map, photos and tips.
+- [Sentier de la Statue](https://arpente.app/quebec-hikes/sentier-de-la-statue/): Hiking the Sentier de la Statue from Baie-Éternité, high above the Saguenay Fjord: about 7.6 km return. Map, elevation profile, photos and tips.
+- [Lachine Canal](https://arpente.app/montreal-walks/lachine-canal/): Walking the Lachine Canal path in Montréal, from the Old Port to Lachine: 14.5 km, flat, past locks, old factories and Atwater Market. Map, photos and tips.
+- [Mount Royal](https://arpente.app/montreal-walks/mount-royal/): Walking up Mount Royal from the top of rue Peel: about 1.4 km to the Kondiaronk lookout, 2 km to the cross, 150 m of climbing. Map, profile, photos and tips.
 
 ## Français
 
-- [Accueil](https://arpente.app/fr/)
-- [Assistance](https://arpente.app/fr/assistance/)
-- [Confidentialité](https://arpente.app/fr/confidentialite/)
-- [Alternative à Strava](https://arpente.app/fr/alternative-strava/)
-- [Alternative à AllTrails](https://arpente.app/fr/alternative-alltrails/)
-- [Alternative à Komoot](https://arpente.app/fr/alternative-komoot/)
-- [Journal de marche](https://arpente.app/fr/journal-de-marche/)
-- [Suivi de randonnée sans compte](https://arpente.app/fr/suivi-randonnee-sans-compte/)
-- [Export GPX](https://arpente.app/fr/export-gpx/)
-- [Application de marche gratuite](https://arpente.app/fr/application-marche-gratuite/)
-- [Randonnées au Québec](https://arpente.app/fr/randonnees-quebec/)
-- [Marches à Montréal](https://arpente.app/fr/marches-montreal/)
-- [Mont Albert](https://arpente.app/fr/randonnees-quebec/mont-albert/)
-- [Acropole-des-Draveurs](https://arpente.app/fr/randonnees-quebec/acropole-des-draveurs/)
-- [Sentier de la Statue](https://arpente.app/fr/randonnees-quebec/sentier-de-la-statue/)
-- [Canal de Lachine](https://arpente.app/fr/marches-montreal/canal-de-lachine/)
-- [Mont Royal](https://arpente.app/fr/marches-montreal/mont-royal/)
+- [Accueil](https://arpente.app/fr/): Arpente est un journal gratuit de tes marches et randonnées pour iPhone : cartes GPS, statistiques claires et l’historique de tes explorations. Sans compte.
+- [Assistance](https://arpente.app/fr/assistance/): Aide et contact pour Arpente : accès à la position, précision du GPS, changement d’iPhone et export de tes parcours en GPX.
+- [Confidentialité](https://arpente.app/fr/confidentialite/): Comment Arpente traite tes renseignements : sans compte, sans pub, tes parcours restent sur ton iPhone et dans ton iCloud.
+- [Alternative à Strava](https://arpente.app/fr/alternative-strava/): Tu cherches une alternative à Strava pour tes marches et randonnées ? Arpente, un journal gratuit pour iPhone : cartes GPS, sans compte, sans fil ni classement.
+- [Alternative à AllTrails](https://arpente.app/fr/alternative-alltrails/): Tu cherches une alternative gratuite à AllTrails ? Arpente est un journal de randonnée pour iPhone : cartes GPS, dénivelé, export GPX. Sans compte.
+- [Alternative à Komoot](https://arpente.app/fr/alternative-komoot/): Tu cherches une alternative simple à Komoot ? Arpente est un journal de tes marches et randonnées pour iPhone : cartes GPS, stats, export GPX, sans compte.
+- [Journal de marche](https://arpente.app/fr/journal-de-marche/): Arpente est une app de journal de marche et de randonnée pour iPhone : chaque sortie avec sa carte GPS, sa distance, son dénivelé, une note et des photos.
+- [Suivi de randonnée sans compte](https://arpente.app/fr/suivi-randonnee-sans-compte/): Un suivi de randonnée et de marche privé pour iPhone : sans compte, sans profil public, sans fil. Arpente garde tes parcours sur ton iPhone et dans ton iCloud.
+- [Export GPX](https://arpente.app/fr/export-gpx/): Comment enregistrer une marche ou une randonnée sur iPhone, l’exporter en GPX avec Arpente et l’ouvrir dans une autre app de cartes. Gratuit, sans compte.
+- [Application de marche gratuite](https://arpente.app/fr/application-marche-gratuite/): Arpente est une application de marche gratuite pour iPhone : enregistre tes marches au GPS, vois ta distance, ta durée et ton dénivelé. Sans pub, sans compte.
+- [Randonnées au Québec](https://arpente.app/fr/randonnees-quebec/): Le mont Albert en Gaspésie, l’Acropole-des-Draveurs dans Charlevoix et le sentier de la Statue sur le fjord du Saguenay : distance, dénivelé et conseils.
+- [Marches à Montréal](https://arpente.app/fr/marches-montreal/): La piste du canal de Lachine, le mont Royal jusqu’au belvédère Kondiaronk et une boucle dans ton quartier : trois marches à Montréal à garder.
+- [Mont Albert](https://arpente.app/fr/randonnees-quebec/mont-albert/): Randonnée du mont Albert au parc national de la Gaspésie : 11,6 km aller-retour par le versant nord ou boucle de 17,3 km, environ 860 m de dénivelé.
+- [Acropole-des-Draveurs](https://arpente.app/fr/randonnees-quebec/acropole-des-draveurs/): Randonnée de l’Acropole-des-Draveurs au parc national des Hautes-Gorges-de-la-Rivière-Malbaie : environ 10,4 km aller-retour et 800 m de dénivelé.
+- [Sentier de la Statue](https://arpente.app/fr/randonnees-quebec/sentier-de-la-statue/): Randonnée du sentier de la Statue, de la baie Éternité à Notre-Dame-du-Saguenay, au-dessus du fjord : environ 7,6 km aller-retour. Carte et conseils.
+- [Canal de Lachine](https://arpente.app/fr/marches-montreal/canal-de-lachine/): La piste du canal de Lachine à Montréal, du Vieux-Port à Lachine : 14,5 km à plat, entre écluses, anciennes usines et marché Atwater. Carte et conseils.
+- [Mont Royal](https://arpente.app/fr/marches-montreal/mont-royal/): Monter au mont Royal du haut de la rue Peel : environ 1,4 km jusqu’au belvédère Kondiaronk, 2 km jusqu’à la croix, 150 m de dénivelé. Carte et conseils.
 
 ## Español
 
-- [Inicio](https://arpente.app/es/)
-- [Soporte](https://arpente.app/es/soporte/)
-- [Privacidad](https://arpente.app/es/privacidad/)
-- [Alternativa a Strava](https://arpente.app/es/alternativa-strava/)
-- [Alternativa a AllTrails](https://arpente.app/es/alternativa-alltrails/)
-- [Alternativa a Komoot](https://arpente.app/es/alternativa-komoot/)
-- [Diario de caminatas](https://arpente.app/es/diario-de-caminatas/)
-- [Seguimiento de senderismo sin cuenta](https://arpente.app/es/seguimiento-senderismo-sin-cuenta/)
-- [Exportar GPX](https://arpente.app/es/exportar-gpx/)
-- [App para caminar gratis](https://arpente.app/es/app-caminar-gratis/)
-- [Rutas en Quebec](https://arpente.app/es/rutas-quebec/)
-- [Paseos en Montreal](https://arpente.app/es/paseos-montreal/)
-- [Mont Albert](https://arpente.app/es/rutas-quebec/mont-albert/)
-- [Acropole des Draveurs](https://arpente.app/es/rutas-quebec/acropole-des-draveurs/)
-- [Sentier de la Statue](https://arpente.app/es/rutas-quebec/sentier-de-la-statue/)
-- [Canal de Lachine](https://arpente.app/es/paseos-montreal/canal-de-lachine/)
-- [Mont Royal](https://arpente.app/es/paseos-montreal/mont-royal/)
+- [Inicio](https://arpente.app/es/): Arpente es un diario gratuito de tus caminatas y excursiones para iPhone: mapas GPS, estadísticas claras y la historia de tus salidas. Sin cuenta ni anuncios.
+- [Soporte](https://arpente.app/es/soporte/): Ayuda y contacto de Arpente: acceso a la ubicación, precisión del GPS, cambio de iPhone y exportación de tus recorridos en GPX.
+- [Privacidad](https://arpente.app/es/privacidad/): Cómo trata Arpente tu información: sin cuenta, sin anuncios, tus recorridos se quedan en tu iPhone y en tu iCloud.
+- [Alternativa a Strava](https://arpente.app/es/alternativa-strava/): ¿Buscas una alternativa a Strava para tus caminatas? Arpente es un diario gratuito para iPhone con mapas GPS: sin cuenta, sin feed ni clasificaciones.
+- [Alternativa a AllTrails](https://arpente.app/es/alternativa-alltrails/): ¿Buscas una alternativa gratuita a AllTrails? Arpente es un diario de senderismo para iPhone con mapas GPS, desnivel y exportación GPX. Sin cuenta.
+- [Alternativa a Komoot](https://arpente.app/es/alternativa-komoot/): ¿Buscas una alternativa sencilla a Komoot? Arpente es un diario gratuito de tus caminatas y rutas para iPhone: mapas GPS, estadísticas y GPX, sin cuenta.
+- [Diario de caminatas](https://arpente.app/es/diario-de-caminatas/): Arpente es una app de diario de caminatas y senderismo para iPhone: cada salida con su mapa GPS, distancia, desnivel, una nota y fotos. Gratis, sin cuenta.
+- [Seguimiento de senderismo sin cuenta](https://arpente.app/es/seguimiento-senderismo-sin-cuenta/): Seguimiento privado de senderismo y caminatas para iPhone: sin cuenta, sin perfil público, sin feed. Arpente guarda tus rutas en tu iPhone y tu iCloud privado.
+- [Exportar GPX](https://arpente.app/es/exportar-gpx/): Cómo grabar una caminata o ruta en iPhone, exportarla como archivo GPX con Arpente y abrirla en otra app de mapas o senderismo. Gratis, sin cuenta.
+- [App para caminar gratis](https://arpente.app/es/app-caminar-gratis/): Arpente es una app gratis para caminar en iPhone: graba tus caminatas con GPS, consulta distancia, tiempo y desnivel, y lleva un diario. Sin anuncios ni cuenta.
+- [Rutas en Quebec](https://arpente.app/es/rutas-quebec/): El Mont Albert en Gaspésie, la Acropole des Draveurs en Charlevoix y el Sentier de la Statue en el fiordo del Saguenay: distancia, desnivel y consejos.
+- [Paseos en Montreal](https://arpente.app/es/paseos-montreal/): El camino del canal de Lachine, el mont Royal hasta el belvédère Kondiaronk y una vuelta por tu propio barrio: tres paseos en Montreal para grabar y guardar.
+- [Mont Albert](https://arpente.app/es/rutas-quebec/mont-albert/): Ruta al Mont Albert en el Parque Nacional de la Gaspésie: 11,6 km ida y vuelta por la cara norte o circuito de 17,3 km, unos 860 m de desnivel. Mapa y consejos.
+- [Acropole des Draveurs](https://arpente.app/es/rutas-quebec/acropole-des-draveurs/): Ruta a la Acropole des Draveurs en el Parque Nacional de las Hautes-Gorges-de-la-Rivière-Malbaie: unos 10,4 km ida y vuelta y 800 m de desnivel.
+- [Sentier de la Statue](https://arpente.app/es/rutas-quebec/sentier-de-la-statue/): Ruta del Sentier de la Statue, de la bahía Éternité a Notre-Dame-du-Saguenay, sobre el fiordo del Saguenay: unos 7,6 km ida y vuelta. Mapa, perfil y consejos.
+- [Canal de Lachine](https://arpente.app/es/paseos-montreal/canal-de-lachine/): Caminar por el canal de Lachine en Montreal, del Viejo Puerto a Lachine: 14,5 km llanos, entre esclusas, antiguas fábricas y el mercado Atwater. Mapa y fotos.
+- [Mont Royal](https://arpente.app/es/paseos-montreal/mont-royal/): Subir al Mont Royal desde lo alto de la calle Peel: unos 1,4 km hasta el mirador Kondiaronk, 2 km hasta la cruz y 150 m de desnivel. Mapa, perfil y consejos.
