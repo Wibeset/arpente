@@ -145,6 +145,174 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/komoot-alternative/"/>
   </url>
   <url>
+    <loc>https://arpente.app/gaia-gps-alternative/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/gaia-gps-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-gaia-gps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-gaia-gps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/gaia-gps-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/fr/alternative-gaia-gps/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/gaia-gps-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-gaia-gps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-gaia-gps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/gaia-gps-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/es/alternativa-gaia-gps/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/gaia-gps-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-gaia-gps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-gaia-gps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/gaia-gps-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/wikiloc-alternative/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/wikiloc-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-wikiloc/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-wikiloc/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/wikiloc-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/fr/alternative-wikiloc/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/wikiloc-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-wikiloc/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-wikiloc/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/wikiloc-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/es/alternativa-wikiloc/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/wikiloc-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-wikiloc/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-wikiloc/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/wikiloc-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/outdooractive-alternative/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/outdooractive-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-outdooractive/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-outdooractive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/outdooractive-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/fr/alternative-outdooractive/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/outdooractive-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-outdooractive/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-outdooractive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/outdooractive-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/es/alternativa-outdooractive/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/outdooractive-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-outdooractive/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-outdooractive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/outdooractive-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/map-my-walk-alternative/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/map-my-walk-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-map-my-walk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-map-my-walk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/map-my-walk-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/fr/alternative-map-my-walk/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/map-my-walk-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-map-my-walk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-map-my-walk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/map-my-walk-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/es/alternativa-map-my-walk/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/map-my-walk-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-map-my-walk/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-map-my-walk/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/map-my-walk-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/relive-alternative/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/relive-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-relive/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-relive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/relive-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/fr/alternative-relive/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/relive-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-relive/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-relive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/relive-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/es/alternativa-relive/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/relive-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-relive/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-relive/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/relive-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/polarsteps-alternative/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/polarsteps-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-polarsteps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-polarsteps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/polarsteps-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/fr/alternative-polarsteps/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/polarsteps-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-polarsteps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-polarsteps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/polarsteps-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/es/alternativa-polarsteps/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/polarsteps-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-polarsteps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-polarsteps/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/polarsteps-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/pacer-alternative/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/pacer-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-pacer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-pacer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/pacer-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/fr/alternative-pacer/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/pacer-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-pacer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-pacer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/pacer-alternative/"/>
+  </url>
+  <url>
+    <loc>https://arpente.app/es/alternativa-pacer/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/pacer-alternative/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://arpente.app/fr/alternative-pacer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://arpente.app/es/alternativa-pacer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arpente.app/pacer-alternative/"/>
+  </url>
+  <url>
     <loc>https://arpente.app/walking-journal/</loc>
     <lastmod>2026-11-23</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://arpente.app/walking-journal/"/>

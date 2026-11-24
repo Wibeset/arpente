@@ -18,6 +18,13 @@ qu’en anglais et en français : les pages espagnoles le disent, et le JSON-LD 
 | `/strava-alternative/` | `/fr/alternative-strava/` | `/es/alternativa-strava/` |
 | `/alltrails-alternative/` | `/fr/alternative-alltrails/` | `/es/alternativa-alltrails/` |
 | `/komoot-alternative/` | `/fr/alternative-komoot/` | `/es/alternativa-komoot/` |
+| `/gaia-gps-alternative/` | `/fr/alternative-gaia-gps/` | `/es/alternativa-gaia-gps/` |
+| `/wikiloc-alternative/` | `/fr/alternative-wikiloc/` | `/es/alternativa-wikiloc/` |
+| `/outdooractive-alternative/` | `/fr/alternative-outdooractive/` | `/es/alternativa-outdooractive/` |
+| `/map-my-walk-alternative/` | `/fr/alternative-map-my-walk/` | `/es/alternativa-map-my-walk/` |
+| `/relive-alternative/` | `/fr/alternative-relive/` | `/es/alternativa-relive/` |
+| `/polarsteps-alternative/` | `/fr/alternative-polarsteps/` | `/es/alternativa-polarsteps/` |
+| `/pacer-alternative/` | `/fr/alternative-pacer/` | `/es/alternativa-pacer/` |
 | `/walking-journal/` | `/fr/journal-de-marche/` | `/es/diario-de-caminatas/` |
 | `/private-hiking-tracker/` | `/fr/suivi-randonnee-sans-compte/` | `/es/seguimiento-senderismo-sin-cuenta/` |
 | `/gpx-export/` | `/fr/export-gpx/` | `/es/exportar-gpx/` |
@@ -40,6 +47,10 @@ novembre 2026 : à revoir.
 
 - **Styles** : modifier `assets/style.css`, puis `scripts/build-css.sh` pour produire `style.min.css`,
   que les pages chargent.
+- **Alternatives** : les dix pages « meilleures alternatives à … » (Arpente en tête du classement, puis un tableau
+  comparatif) ne s’éditent pas à la main. Le texte est dans `scripts/alternatives/{en,fr,es}.py` ; lancer
+  `python3 scripts/make-alternatives.py` pour réécrire les 30 pages et leurs entrées dans `sitemap.xml` et `llms.txt`.
+  Pas de prix précis pour les autres apps (ils changent selon le pays) : seulement le modèle (gratuite, abonnement…).
 - **Script** : `assets/main.js` (le même que Reliure) affiche dans le téléphone l’écran de la section en cours de lecture
   (`data-screen`) et ajoute les points de navigation ; sans JavaScript, le premier écran reste affiché.
 - **Images** : `python3 scripts/make-images.py` dessine l’icône et les favicons, les images Open Graph, les cinq
